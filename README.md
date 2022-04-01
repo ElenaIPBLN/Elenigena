@@ -19,3 +19,11 @@ This is my first repository to store information from my research on Parkinson.
   		journal = {GitHub repository},
   		howpublished = {\url{URL_OF_THIS_REPO}}
 		}
+/funtions/plot.py
+import matplotlib.pyplot as plt
+fig = plt.figure()
+ax = fig.add_axes([0,0,1,1])
+langs = ['C', 'C++', 'Java', 'Python', 'PHP']
+students = [23,17,35,29,12]
+ax.bar(langs,students)
+plt.show()
