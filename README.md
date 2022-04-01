@@ -19,6 +19,10 @@ This is my first repository to store information from my research on Parkinson.
   		journal = {GitHub repository},
   		howpublished = {\url{URL_OF_THIS_REPO}}
 		}
+## Contributors
+
+- ElenaIPBLN
+		
 /funtions/plot.py
 import matplotlib.pyplot as plt
 fig = plt.figure()
