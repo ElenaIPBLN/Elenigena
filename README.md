@@ -2,7 +2,7 @@
 curso reproducibilidad
 Material para el curso de formacion CSIC
 ## Aim of this repository
-This is my first repository to store information from my research on XXXX.
+This is my first repository to store information from my research on Parkinson.
 
 ## How to collaborate:
 
